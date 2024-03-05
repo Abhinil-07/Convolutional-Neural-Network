@@ -1,5 +1,3 @@
-
-
 # Convolutional Neural Network
 
 - Dataset : https://www.kaggle.com/datasets/kwentar/blur-dataset
